@@ -1,1 +1,2 @@
 ssh-management-terraform/.terraform/*
+ssh-management-terraform/.*
