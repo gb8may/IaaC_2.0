@@ -1,0 +1,4 @@
+package { 'awscli':
+  ensure => present,
+
+}

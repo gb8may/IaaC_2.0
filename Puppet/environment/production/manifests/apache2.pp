@@ -1,8 +1,8 @@
 package { 'apache2':
-  ensure => present,
+  ensure => absent,
 }
 
-service { 'apache2':
-  ensure => running,
-  enable => true,
-}
+#service { 'apache2':
+#  ensure => running,
+#  enable => true,
+#}
